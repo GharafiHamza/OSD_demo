@@ -1,0 +1,7 @@
+streamlit>=1.33
+folium>=0.15
+streamlit-folium>=0.18
+numpy>=1.23
+tifffile>=2023.7.10
+Pillow>=10.0
+jinja2>=3.1
